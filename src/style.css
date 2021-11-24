@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.in-nav:hover {
+    @apply bg-green-200
+}
