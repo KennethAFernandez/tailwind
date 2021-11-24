@@ -6,7 +6,7 @@ Create package.json
 
     npm i tailwindcss
 
-To build 
+To build then use live server
         
     npm run build:css
 
