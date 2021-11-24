@@ -1,7 +1,7 @@
 # Messing around with tailwind
 Create package.json
 
-  npm init -y
+    npm init -y
 
   npm i tailwindcss
 
