@@ -1,11 +1,11 @@
 # Messing around with tailwind
+Create package.json
+  npm init -y
 
-npm init -y
+  npm i tailwindcss
 
-npm i tailwindcss
+To build 
+  npm run build:css
 
-* To build *
-npm run build:css
-
-* Create config file *
+Create tailwind config file
 npx tailwind init
