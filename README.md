@@ -1,4 +1,5 @@
-# Messing around with tailwind
+# Basics of tailwind
+
 Create package.json
 
     npm init -y
